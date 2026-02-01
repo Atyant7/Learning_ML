@@ -1,0 +1,7 @@
+Nan (Not a Number)
+None(for object data types)
+
+isnull() -> returns boolean data type
+if True -> NaN is missing
+   False -> Value is present
+

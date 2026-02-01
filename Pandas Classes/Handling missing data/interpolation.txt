@@ -1,0 +1,15 @@
+suppose we have a list
+10
+20
+NaN -> estimated value = 30
+40
+50
+
+interpolation -> ek estimate nikalta hai of missing value in numeric column only and based on mathematical methods. Example -> linear interpolation , polynomial interpolation , time interpolation etc
+
+why we use interpolation?
+1. preserve data integrity
+2. smooth trends
+3. avoid data loss
+
+interpolate() -> use to fill missing values in any column or dataframe 
